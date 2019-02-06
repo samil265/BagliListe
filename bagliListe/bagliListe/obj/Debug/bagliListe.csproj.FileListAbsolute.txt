@@ -1,0 +1,10 @@
+C:\Users\Muhammed Şamil Özer\Documents\Visual Studio 2017\Projects\bagliListe\bagliListe\obj\Debug\bagliListe.csprojAssemblyReference.cache
+C:\Users\Muhammed Şamil Özer\Documents\Visual Studio 2017\Projects\bagliListe\bagliListe\obj\Debug\bagliListe.Form1.resources
+C:\Users\Muhammed Şamil Özer\Documents\Visual Studio 2017\Projects\bagliListe\bagliListe\obj\Debug\bagliListe.Properties.Resources.resources
+C:\Users\Muhammed Şamil Özer\Documents\Visual Studio 2017\Projects\bagliListe\bagliListe\obj\Debug\bagliListe.csproj.GenerateResource.cache
+C:\Users\Muhammed Şamil Özer\Documents\Visual Studio 2017\Projects\bagliListe\bagliListe\obj\Debug\bagliListe.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Şamil Özer\Documents\Visual Studio 2017\Projects\bagliListe\bagliListe\bin\Debug\bagliListe.exe.config
+C:\Users\Muhammed Şamil Özer\Documents\Visual Studio 2017\Projects\bagliListe\bagliListe\bin\Debug\bagliListe.exe
+C:\Users\Muhammed Şamil Özer\Documents\Visual Studio 2017\Projects\bagliListe\bagliListe\bin\Debug\bagliListe.pdb
+C:\Users\Muhammed Şamil Özer\Documents\Visual Studio 2017\Projects\bagliListe\bagliListe\obj\Debug\bagliListe.exe
+C:\Users\Muhammed Şamil Özer\Documents\Visual Studio 2017\Projects\bagliListe\bagliListe\obj\Debug\bagliListe.pdb
